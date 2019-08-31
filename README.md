@@ -11,7 +11,7 @@ To train the model you press the button of a category when the object of the cor
 
 After enough image samples for each category, your model will predict accurately the object shown on camera.
 
-## Steps
+## Try it !
 
 1. Go to this [page](https://cydessole.github.io/TensorFlow.js-Transfer-Learning-Image-Classifier/) to use the Image Classifier. You will need to grant WebCam privileges.
 

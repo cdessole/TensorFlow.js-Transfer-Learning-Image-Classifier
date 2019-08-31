@@ -22,6 +22,7 @@ After enough image samples for each category, your model will predict accurately
 ## Classic Example : Rock–paper–scissors 
 
 I've seen this example multiple times to test this application.
+I did this one as well to test my Classifier.
 
 4 classes : 
   - A: Rock
@@ -29,6 +30,6 @@ I've seen this example multiple times to test this application.
   - C: Scissors
   - D: Nothing
 
-The gif below shows the result after 20 training samples for each class
+The gif below shows the result after 20 training samples for each class for my model.
 
 ![Example Gif](ExampleGif.gif)

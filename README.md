@@ -4,7 +4,7 @@
 
 This is the final result of the TensorFlow.js Transfer Learning Image Classifier tutorial on the codelabs website.
 
-You can follow the tutorial at [Codelab Tensorflow tuorial](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/) to create your own Image Classifier.
+You can follow the tutorial at [Codelab Tensorflow tutorial](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/) to create your own Image Classifier.
 
 This project uses the WebCam to predict 4 different classes.
 To train the model you should hit the button when the object of the corresponding category appears on camera.

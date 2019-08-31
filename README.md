@@ -13,7 +13,7 @@ After enough images samples for each category, your model will predict accuratel
 
 ## Steps
 
-1. Go to this [URL](index.html) to use the Image Classifier. You will need to grant WebCam privileges to your browser.
+1. Go to this [page](https://cdessole.github.io/TensorFlow.js-Transfer-Learning-Image-Classifier/) to use the Image Classifier. You will need to grant WebCam privileges.
 
 2. Show the object corresponding to each class (A to D) on camera and press the `Add #` button.
 

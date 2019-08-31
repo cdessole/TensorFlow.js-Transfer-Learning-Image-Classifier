@@ -21,7 +21,7 @@ After enough images samples for each category, your model will predict accuratel
 
 ## Classic Example : Rock–paper–scissors 
 
-I've seen this example multiple times to test this apllication.
+I've seen this example multiple times to test this application.
 
 4 classes : 
   - A: Rock

@@ -22,12 +22,12 @@ After enough images samples for each category, your model will predict accuratel
 ## Classic Example : Rock–paper–scissors 
 
 I've seen this example multiple times to test this apllication.
-* 4 classes : 
-- A: Rock
-- B: Paper
-- C: Scissors
-- D: Nothing
+-> 4 classes : 
+  - A: Rock
+  - B: Paper
+  - C: Scissors
+  - D: Nothing
 
-* The gif below shows the result after 20 training samples for each class
+-> The gif below shows the result after 20 training samples for each class
 
 ![Example Gif](ExampleGif.gif)

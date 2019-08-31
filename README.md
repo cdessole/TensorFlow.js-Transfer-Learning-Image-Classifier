@@ -9,7 +9,7 @@ You can follow the tutorial at [Codelab Tensorflow tutorial](https://codelabs.de
 This project uses the WebCam to predict 4 different classes.
 To train the model you should hit the button when the object of the corresponding category appears on camera.
 
-After enough images samples for each category, your model will predict accurately the object shown on camera.
+After enough image samples for each category, your model will predict accurately the object shown on camera.
 
 ## Steps
 
